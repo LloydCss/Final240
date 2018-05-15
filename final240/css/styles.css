@@ -1,0 +1,52 @@
+
+	
+
+body{
+	background-image: url('../images/eye.jpg') no-repeat center;
+
+    
+}
+h1{
+	font-family: 'MedievalSharp', cursive;
+	color: black;
+	text-align: center;
+	position: relative;
+	top: 500px;
+}
+h2{
+	font-family: 'MedievalSharp', cursive;
+	color: black;
+	text-align: center;
+	position: relative;
+	top: 500px;
+}
+a{
+	color: black;
+	position: relative;
+	bottom: 500px;
+}
+
+
+
+}
+h3{
+	font-family: 'MedievalSharp', cursive;
+	color: black;
+	text-align: center;
+	font-size: 150%;
+	position: relative;
+	bottom: 500px;
+}
+
+html{
+	background: url('../images/eye.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  
+}
+#logo{
+	background-color: transparent;
+	position: absolute;
+	bottom: 25%;
+
+}
