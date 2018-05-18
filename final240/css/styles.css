@@ -32,7 +32,7 @@ a{
 }
 h3{
 	font-family: 'Cinzel Decorative', cursive;
-	color: black;
+	color: white;
 	
 	font-size: 150%;
 	position: relative;
@@ -54,7 +54,7 @@ p{
 background-color: transparent;
     position: relative;
     bottom: -10%;
-    right: 6%;
+    right: -10%;
     background-repeat: no-repeat no-repeat;
 }
 
